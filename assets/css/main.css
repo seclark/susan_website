@@ -2267,6 +2267,10 @@
 			#main > section.four {
 				background-color: #e8edec;
 			}
+			
+			#main > section.banner {
+				background-color: rgba(255, 255, 255, 0.75);
+			}
 
 /* Wide */
 
